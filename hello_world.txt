@@ -1,0 +1,8 @@
+"Hello World" was one of the first messages outputed by a computer.
+I don't remember all of the history behind it but, but it is customary
+to print this string to the terminal when you first start coding. I 
+also like to do it when debugging, but I imagine that practice will 
+soon be behind me once I learn how to debug better.
+
+- Jacob
+- 02/06/2024
